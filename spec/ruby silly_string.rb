@@ -1,3 +1,3 @@
-puts "ecstatic".capitalize
+#ecstatic
 puts "IM NOT SHOUTING".downcase
 puts."supercalifragilisticexpialidocious".length
